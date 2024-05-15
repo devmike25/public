@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AU Tenders</title>
+        <link>https://www.tenders.gov.au/</link>
+        <description>Latest tenders from AU Tenders</description>
+        <lastBuildDate>Wed, 15 May 2024 06:02:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>AU Tenders</title>
+            <url>https://www.tenders.gov.au/favicon.ico</url>
+            <link>https://www.tenders.gov.au/</link>
+        </image>
+        <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Consultant for Civil Structural Engineering Design Services - AIMS Townsville 2024 - 2027]]></title>
+            <link>/Atm/Show/784d3194-65b2-4d75-8898-813c705ecd54</link>
+            <guid>AIMSRFT746</guid>
+            <pubDate>Fri, 17 May 2024 14:30:00 GMT</pubDate>
+            <description><![CDATA[Provision of Civil Structural Engineering design services to the Australian Institute of Marine Science's capital works...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Work Health and Safety Management System Software]]></title>
+            <link>/Atm/Show/3b1d1f81-3692-4814-903a-5d1b4097d611</link>
+            <guid>A24/4</guid>
+            <pubDate>Fri, 17 May 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[The National Capital Authority are seeking a work health and safety management system (WHSMS) software package.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MAINTENANCE OF MINI DYADS & CRADLES AT JERVIS BAY AIR FIELD 2024]]></title>
+            <link>/Atm/Show/2c1c59c8-161e-41ab-9702-308a423dc2d9</link>
+            <guid>MSD/RFQ/41448/2</guid>
+            <pubDate>Fri, 17 May 2024 16:00:00 GMT</pubDate>
+            <description><![CDATA[MAINTENANCE OF MINI DYADS & CRADLES AT JERVIS BAY AIR FIELD 2024]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Marketing Automation Platform]]></title>
+            <link>/Atm/Show/6e1f4c20-bc5b-4111-8b89-e7b3be728e76</link>
+            <guid>NS1236</guid>
+            <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[The ABC is seeking Expressions of Interest for a forthcoming Request for Proposal for a marketing automation platform to...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ARPANSA Carpark Civil Works]]></title>
+            <link>/Atm/Show/16618aa1-f99a-4e60-b794-23913fb3c66f</link>
+            <guid>ARPANSA23-24/003</guid>
+            <pubDate>Mon, 27 May 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[Repaving and extension of the carpark at ARPANSA's Yallambie building]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Document Search Support and Enhancement]]></title>
+            <link>/Atm/Show/27065eaf-5a14-4747-aa42-2158da756db6</link>
+            <guid>Doc_Search_2024</guid>
+            <pubDate>Wed, 29 May 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[Provision of Managed Services for a full range of internal and external Document Search tools, using MS Azure AI...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Digital Mapping Provider for Smartraveller]]></title>
+            <link>/Atm/Show/ac4c3fe8-a69e-4758-8173-ec6e919171b5</link>
+            <guid>DFAT-CIN-001</guid>
+            <pubDate>Wed, 29 May 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[DFAT has a requirement to engage a supplier to maintain, update and deliver country and regional maps for the...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[COMCAR Booking Management System]]></title>
+            <link>/Atm/Show/43ffcdad-b100-44fb-b0cb-e3a30908a6fd</link>
+            <guid>FIN-2024-230002623</guid>
+            <pubDate>Wed, 05 Jun 2024 14:00:00 GMT</pubDate>
+            <description><![CDATA[The Commonwealth is seeking a commercial off the shelf (COTS), cloud-based solution to manage COMCAR’s vehicle booking...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
+            <link>/Atm/Show/0c4488af-4062-4723-b0ec-357ebf5e26ef</link>
+            <guid>DSPC_SSA_PWS_001/23.</guid>
+            <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
+            <link>/Atm/Show/4fa0e38d-d700-4c0d-9bbc-0bd2ec209a0b</link>
+            <guid>DSPC_SSA_PWS_001/23</guid>
+            <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
+        </item>
+    </channel>
+</rss>
