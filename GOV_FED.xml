@@ -4,7 +4,7 @@
         <title>AU Tenders</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Wed, 15 May 2024 18:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 18:30:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -43,13 +43,6 @@
             <description><![CDATA[The ABC is seeking Expressions of Interest for a forthcoming Request for Proposal for a marketing automation platform to...]]></description>
         </item>
         <item>
-            <title><![CDATA[ARPANSA Carpark Civil Works]]></title>
-            <link>/Atm/Show/16618aa1-f99a-4e60-b794-23913fb3c66f</link>
-            <guid>ARPANSA23-24/003</guid>
-            <pubDate>Mon, 27 May 2024 15:00:00 GMT</pubDate>
-            <description><![CDATA[Repaving and extension of the carpark at ARPANSA's Yallambie building]]></description>
-        </item>
-        <item>
             <title><![CDATA[Document Search Support and Enhancement]]></title>
             <link>/Atm/Show/27065eaf-5a14-4747-aa42-2158da756db6</link>
             <guid>Doc_Search_2024</guid>
@@ -69,6 +62,13 @@
             <guid>2022/23 - ASA - 021</guid>
             <pubDate>Mon, 03 Jun 2024 12:00:00 GMT</pubDate>
             <description><![CDATA[Commercial SSA Services]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ARPANSA Carpark Civil Works]]></title>
+            <link>/Atm/Show/16618aa1-f99a-4e60-b794-23913fb3c66f</link>
+            <guid>ARPANSA23-24/003</guid>
+            <pubDate>Mon, 03 Jun 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[Repaving and extension of the carpark at ARPANSA's Yallambie building]]></description>
         </item>
         <item>
             <title><![CDATA[COMCAR Booking Management System]]></title>
