@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>AU Tenders</title>
+        <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Thu, 16 May 2024 18:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 07:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <image>
-            <title>AU Tenders</title>
+            <title>GOV - FED</title>
             <url>https://www.tenders.gov.au/favicon.ico</url>
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Consultant for Civil Structural Engineering Design Services - AIMS Townsville 2024 - 2027]]></title>
-            <link>/Atm/Show/784d3194-65b2-4d75-8898-813c705ecd54</link>
-            <guid>AIMSRFT746</guid>
-            <pubDate>Fri, 17 May 2024 14:30:00 GMT</pubDate>
-            <description><![CDATA[Provision of Civil Structural Engineering design services to the Australian Institute of Marine Science's capital works...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Work Health and Safety Management System Software]]></title>
-            <link>/Atm/Show/3b1d1f81-3692-4814-903a-5d1b4097d611</link>
-            <guid>A24/4</guid>
-            <pubDate>Fri, 17 May 2024 15:00:00 GMT</pubDate>
-            <description><![CDATA[The National Capital Authority are seeking a work health and safety management system (WHSMS) software package.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MAINTENANCE OF MINI DYADS & CRADLES AT JERVIS BAY AIR FIELD 2024]]></title>
-            <link>/Atm/Show/2c1c59c8-161e-41ab-9702-308a423dc2d9</link>
-            <guid>MSD/RFQ/41448/2</guid>
-            <pubDate>Fri, 17 May 2024 16:00:00 GMT</pubDate>
-            <description><![CDATA[MAINTENANCE OF MINI DYADS & CRADLES AT JERVIS BAY AIR FIELD 2024]]></description>
-        </item>
         <item>
             <title><![CDATA[Marketing Automation Platform]]></title>
             <link>/Atm/Show/6e1f4c20-bc5b-4111-8b89-e7b3be728e76</link>
