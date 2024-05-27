@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Sun, 26 May 2024 18:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 18:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,13 +14,6 @@
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Marketing Automation Platform]]></title>
-            <link>/Atm/Show/6e1f4c20-bc5b-4111-8b89-e7b3be728e76</link>
-            <guid>NS1236</guid>
-            <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[The ABC is seeking Expressions of Interest for a forthcoming Request for Proposal for a marketing automation platform to...]]></description>
-        </item>
         <item>
             <title><![CDATA[Document Search Support and Enhancement]]></title>
             <link>/Atm/Show/27065eaf-5a14-4747-aa42-2158da756db6</link>
