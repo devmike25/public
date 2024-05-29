@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Tue, 28 May 2024 18:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 18:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,20 +14,6 @@
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Document Search Support and Enhancement]]></title>
-            <link>/Atm/Show/27065eaf-5a14-4747-aa42-2158da756db6</link>
-            <guid>Doc_Search_2024</guid>
-            <pubDate>Wed, 29 May 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Provision of Managed Services for a full range of internal and external Document Search tools, using MS Azure AI...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Digital Mapping Provider for Smartraveller]]></title>
-            <link>/Atm/Show/ac4c3fe8-a69e-4758-8173-ec6e919171b5</link>
-            <guid>DFAT-CIN-001</guid>
-            <pubDate>Wed, 29 May 2024 15:00:00 GMT</pubDate>
-            <description><![CDATA[DFAT has a requirement to engage a supplier to maintain, update and deliver country and regional maps for the...]]></description>
-        </item>
         <item>
             <title><![CDATA[Procurement of Commercial Space Situational Awareness (SSA) Data Services]]></title>
             <link>/Atm/Show/8bed1a3a-91ff-4f0b-ae4a-8d3d60d6f331</link>
