@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Thu, 30 May 2024 18:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 18:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -36,11 +36,25 @@
             <description><![CDATA[The Commonwealth is seeking a commercial off the shelf (COTS), cloud-based solution to manage COMCAR’s vehicle booking...]]></description>
         </item>
         <item>
+            <title><![CDATA[ATM 23/133 External Laboratory Services]]></title>
+            <link>/Atm/Show/7c6e4485-2b48-4520-a93a-f9b6b00335d2</link>
+            <guid>Antarctic ATM23/133</guid>
+            <pubDate>Tue, 25 Jun 2024 14:00:00 GMT</pubDate>
+            <description><![CDATA[Provision of External Laboratory Services to the Australian Antarctic Division]]></description>
+        </item>
+        <item>
             <title><![CDATA[DPS24000059 Integrated Library System (ILS) for DPS 2024-2029]]></title>
             <link>/Atm/Show/48781263-1a81-4626-bf2c-d456eef9a902</link>
             <guid>DPS 24000059</guid>
             <pubDate>Wed, 26 Jun 2024 14:00:00 GMT</pubDate>
             <description><![CDATA[The Department of Parliamentary Services (DPS) intends to invite suppliers to fulfill the requirement under this...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Trusted Digital Repository]]></title>
+            <link>/Atm/Show/3ec1af08-684b-4018-8420-7fd4da61a7c6</link>
+            <guid>NMAR 2324/11</guid>
+            <pubDate>Fri, 28 Jun 2024 17:00:00 GMT</pubDate>
+            <description><![CDATA[The National Museum of Australia (NMA) is seeking information on industry capabilities for a Trusted Digital Repository...]]></description>
         </item>
         <item>
             <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
