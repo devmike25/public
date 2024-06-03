@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Sun, 02 Jun 2024 18:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 18:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,20 +14,6 @@
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Procurement of Commercial Space Situational Awareness (SSA) Data Services]]></title>
-            <link>/Atm/Show/8bed1a3a-91ff-4f0b-ae4a-8d3d60d6f331</link>
-            <guid>2022/23 - ASA - 021</guid>
-            <pubDate>Mon, 03 Jun 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Commercial SSA Services]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ARPANSA Carpark Civil Works]]></title>
-            <link>/Atm/Show/16618aa1-f99a-4e60-b794-23913fb3c66f</link>
-            <guid>ARPANSA23-24/003</guid>
-            <pubDate>Mon, 03 Jun 2024 15:00:00 GMT</pubDate>
-            <description><![CDATA[Repaving and extension of the carpark at ARPANSA's Yallambie building]]></description>
-        </item>
         <item>
             <title><![CDATA[COMCAR Booking Management System]]></title>
             <link>/Atm/Show/43ffcdad-b100-44fb-b0cb-e3a30908a6fd</link>
@@ -69,6 +55,13 @@
             <guid>DSPC_SSA_PWS_001/23</guid>
             <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
             <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Airborne Magnetic and Radiometric Survey Services]]></title>
+            <link>/Atm/Show/73020bb1-ff84-4aa8-b4e9-6d5fd6d4e227</link>
+            <guid>GA2024/1004</guid>
+            <pubDate>Wed, 03 Jul 2024 14:00:00 GMT</pubDate>
+            <description><![CDATA[Airborne Magnetic and Radiometric Survey in the Narryer region of Western Australia.]]></description>
         </item>
     </channel>
 </rss>
