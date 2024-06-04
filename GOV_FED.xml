@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Mon, 03 Jun 2024 18:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 18:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -41,6 +41,13 @@
             <guid>NMAR 2324/11</guid>
             <pubDate>Fri, 28 Jun 2024 17:00:00 GMT</pubDate>
             <description><![CDATA[The National Museum of Australia (NMA) is seeking information on industry capabilities for a Trusted Digital Repository...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Marketing Automation Platform]]></title>
+            <link>/Atm/Show/40bfab71-963f-4491-9656-dcf5c106987c</link>
+            <guid>NS1236RFP</guid>
+            <pubDate>Fri, 28 Jun 2024 17:00:00 GMT</pubDate>
+            <description><![CDATA[The ABC is seeking respondents to our Request for Proposal for a marketing automation platform to enable the management...]]></description>
         </item>
         <item>
             <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
