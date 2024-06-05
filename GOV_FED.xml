@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Tue, 04 Jun 2024 18:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 18:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,13 +14,6 @@
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[COMCAR Booking Management System]]></title>
-            <link>/Atm/Show/43ffcdad-b100-44fb-b0cb-e3a30908a6fd</link>
-            <guid>FIN-2024-230002623</guid>
-            <pubDate>Wed, 05 Jun 2024 14:00:00 GMT</pubDate>
-            <description><![CDATA[The Commonwealth is seeking a commercial off the shelf (COTS), cloud-based solution to manage COMCAR’s vehicle booking...]]></description>
-        </item>
         <item>
             <title><![CDATA[ATM 23/133 External Laboratory Services]]></title>
             <link>/Atm/Show/7c6e4485-2b48-4520-a93a-f9b6b00335d2</link>
