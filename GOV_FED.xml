@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Sun, 16 Jun 2024 18:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 18:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -69,6 +69,20 @@
             <guid>TA/CDN/2024</guid>
             <pubDate>Mon, 08 Jul 2024 15:00:00 GMT</pubDate>
             <description><![CDATA[The purpose of this procurement is to appoint a provider for Content Delivery Networks and Wed Security Protection for...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Learning Management System (LMS)]]></title>
+            <link>/Atm/Show/376e7817-554f-4d4b-afe6-25af78549ec7</link>
+            <guid>LMS</guid>
+            <pubDate>Fri, 19 Jul 2024 17:00:00 GMT</pubDate>
+            <description><![CDATA[Learning Management System (LMS)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Request for Tender - Enterprise Booking and Event Management System]]></title>
+            <link>/Atm/Show/afeb183e-7b9d-4f2a-b6c0-724ee50ce725</link>
+            <guid>SHFT23014</guid>
+            <pubDate>Mon, 29 Jul 2024 14:00:00 GMT</pubDate>
+            <description><![CDATA[Enterprise Booking and Event Management System]]></description>
         </item>
     </channel>
 </rss>
