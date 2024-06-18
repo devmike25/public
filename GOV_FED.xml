@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Mon, 17 Jun 2024 18:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 18:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -69,6 +69,13 @@
             <guid>TA/CDN/2024</guid>
             <pubDate>Mon, 08 Jul 2024 15:00:00 GMT</pubDate>
             <description><![CDATA[The purpose of this procurement is to appoint a provider for Content Delivery Networks and Wed Security Protection for...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Advertising Monitoring Services]]></title>
+            <link>/Atm/Show/16cea6e8-fc10-44e6-a14d-c02a26215c3b</link>
+            <guid>PROC1468</guid>
+            <pubDate>Tue, 16 Jul 2024 10:00:00 GMT</pubDate>
+            <description><![CDATA[Provision of advertising monitoring of current and archival business and financial products and services from across a...]]></description>
         </item>
         <item>
             <title><![CDATA[Learning Management System (LMS)]]></title>
