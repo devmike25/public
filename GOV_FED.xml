@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Mon, 24 Jun 2024 18:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 18:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -15,25 +15,11 @@
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ATM 23/133 External Laboratory Services]]></title>
-            <link>/Atm/Show/7c6e4485-2b48-4520-a93a-f9b6b00335d2</link>
-            <guid>Antarctic ATM23/133</guid>
-            <pubDate>Tue, 25 Jun 2024 14:00:00 GMT</pubDate>
-            <description><![CDATA[Provision of External Laboratory Services to the Australian Antarctic Division]]></description>
-        </item>
-        <item>
             <title><![CDATA[DPS24000059 Integrated Library System (ILS) for DPS 2024-2029]]></title>
             <link>/Atm/Show/48781263-1a81-4626-bf2c-d456eef9a902</link>
             <guid>DPS 24000059</guid>
             <pubDate>Wed, 26 Jun 2024 14:00:00 GMT</pubDate>
             <description><![CDATA[The Department of Parliamentary Services (DPS) intends to invite suppliers to fulfill the requirement under this...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marketing Automation Platform]]></title>
-            <link>/Atm/Show/40bfab71-963f-4491-9656-dcf5c106987c</link>
-            <guid>NS1236RFP</guid>
-            <pubDate>Fri, 28 Jun 2024 17:00:00 GMT</pubDate>
-            <description><![CDATA[The ABC is seeking respondents to our Request for Proposal for a marketing automation platform to enable the management...]]></description>
         </item>
         <item>
             <title><![CDATA[Trusted Digital Repository]]></title>
@@ -43,16 +29,23 @@
             <description><![CDATA[The National Museum of Australia (NMA) is seeking information on industry capabilities for a Trusted Digital Repository...]]></description>
         </item>
         <item>
-            <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
-            <link>/Atm/Show/0c4488af-4062-4723-b0ec-357ebf5e26ef</link>
-            <guid>DSPC_SSA_PWS_001/23.</guid>
-            <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
+            <title><![CDATA[Marketing Automation Platform]]></title>
+            <link>/Atm/Show/40bfab71-963f-4491-9656-dcf5c106987c</link>
+            <guid>NS1236RFP</guid>
+            <pubDate>Fri, 28 Jun 2024 17:00:00 GMT</pubDate>
+            <description><![CDATA[The ABC is seeking respondents to our Request for Proposal for a marketing automation platform to enable the management...]]></description>
         </item>
         <item>
             <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
             <link>/Atm/Show/4fa0e38d-d700-4c0d-9bbc-0bd2ec209a0b</link>
             <guid>DSPC_SSA_PWS_001/23</guid>
+            <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
+            <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
+            <link>/Atm/Show/0c4488af-4062-4723-b0ec-357ebf5e26ef</link>
+            <guid>DSPC_SSA_PWS_001/23.</guid>
             <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
             <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
         </item>
