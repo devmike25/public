@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Tue, 25 Jun 2024 18:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 18:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,13 +14,6 @@
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[DPS24000059 Integrated Library System (ILS) for DPS 2024-2029]]></title>
-            <link>/Atm/Show/48781263-1a81-4626-bf2c-d456eef9a902</link>
-            <guid>DPS 24000059</guid>
-            <pubDate>Wed, 26 Jun 2024 14:00:00 GMT</pubDate>
-            <description><![CDATA[The Department of Parliamentary Services (DPS) intends to invite suppliers to fulfill the requirement under this...]]></description>
-        </item>
         <item>
             <title><![CDATA[Trusted Digital Repository]]></title>
             <link>/Atm/Show/3ec1af08-684b-4018-8420-7fd4da61a7c6</link>
@@ -69,13 +62,6 @@
             <guid>PROC1468</guid>
             <pubDate>Tue, 16 Jul 2024 10:00:00 GMT</pubDate>
             <description><![CDATA[Provision of advertising monitoring of current and archival business and financial products and services from across a...]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Learning Management System (LMS)]]></title>
-            <link>/Atm/Show/376e7817-554f-4d4b-afe6-25af78549ec7</link>
-            <guid>LMS</guid>
-            <pubDate>Fri, 19 Jul 2024 17:00:00 GMT</pubDate>
-            <description><![CDATA[Learning Management System (LMS)]]></description>
         </item>
         <item>
             <title><![CDATA[Request for Tender - Enterprise Booking and Event Management System]]></title>
