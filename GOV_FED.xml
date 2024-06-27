@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Wed, 26 Jun 2024 18:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 18:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -55,6 +55,13 @@
             <guid>TA/CDN/2024</guid>
             <pubDate>Mon, 08 Jul 2024 15:00:00 GMT</pubDate>
             <description><![CDATA[The purpose of this procurement is to appoint a provider for Content Delivery Networks and Wed Security Protection for...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Transforming Australia's Digital Health Infrastructure – Information Session]]></title>
+            <link>/Atm/Show/c3a822c8-2805-4427-b37a-a671c815bbd1</link>
+            <guid>ADHA 2024</guid>
+            <pubDate>Wed, 10 Jul 2024 17:00:00 GMT</pubDate>
+            <description><![CDATA[The Australian Digital Health Agency intends to continue to transform national infrastructure and move to a...]]></description>
         </item>
         <item>
             <title><![CDATA[Advertising Monitoring Services]]></title>
