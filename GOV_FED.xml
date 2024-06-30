@@ -4,7 +4,7 @@
         <title>GOV - FED</title>
         <link>https://www.tenders.gov.au/</link>
         <description>Latest tenders from AU Tenders</description>
-        <lastBuildDate>Sat, 29 Jun 2024 18:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 18:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -14,20 +14,6 @@
             <link>https://www.tenders.gov.au/</link>
         </image>
         <atom:link href="https://www.tenders.gov.au/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
-            <link>/Atm/Show/0c4488af-4062-4723-b0ec-357ebf5e26ef</link>
-            <guid>DSPC_SSA_PWS_001/23.</guid>
-            <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Commercial Space Surveillance and Tracking Data]]></title>
-            <link>/Atm/Show/4fa0e38d-d700-4c0d-9bbc-0bd2ec209a0b</link>
-            <guid>DSPC_SSA_PWS_001/23</guid>
-            <pubDate>Sun, 30 Jun 2024 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ongoing Procurement of Commercial Space Surveillance and Tracking Data]]></description>
-        </item>
         <item>
             <title><![CDATA[Airborne Magnetic and Radiometric Survey Services]]></title>
             <link>/Atm/Show/73020bb1-ff84-4aa8-b4e9-6d5fd6d4e227</link>
